@@ -348,3 +348,21 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+instagram-clone/.eslintrc.json
+instagram-clone/.gitignore
+instagram-clone/next.config.js
+instagram-clone/package.json
+instagram-clone/package-lock.json
+instagram-clone/postcss.config.js
+instagram-clone/README.md
+instagram-clone/tailwind.config.js
+instagram-clone/tsconfig.json
+instagram-clone/public/favicon.ico
+instagram-clone/public/next.svg
+instagram-clone/public/vercel.svg
+instagram-clone/src/pages/_app.tsx
+instagram-clone/src/pages/_document.tsx
+instagram-clone/src/pages/index.tsx
+instagram-clone/src/pages/React.code-workspace
+instagram-clone/src/pages/api/hello.ts
+instagram-clone/src/styles/globals.css
